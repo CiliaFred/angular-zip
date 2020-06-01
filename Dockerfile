@@ -1,2 +1,2 @@
 FROM angular/ngcontainer
-RUN apt-get install zip
+RUN apt-get install -y zip
